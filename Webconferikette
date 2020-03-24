@@ -2,12 +2,13 @@ Webconferikette
 
 -- Wie man den Hauptchat entlasten kann:
 
-- Kameras und Mirkos aus. Man kann in den Chat mit aktiviertem Mirko einsteigen und sich dann stumm schalten (> rotes durchgestrichenes Mirko-Icon) oder von vornherein mit deaktiviertem Mirko einsteigen (> grünes Kopfhörer-Icon) - in diesem Fall kann man die ganze Session gar nix sagen oder muss neu einsteigen.
+- Kameras aus, Mirkos nur dann anschalten, wenn man sprechen möchte. Man kann in den Chat mit aktiviertem Mirko einsteigen und sich dann stumm schalten (> rotes durchgestrichenes Mirko-Icon) oder von vornherein mit deaktiviertem Mirko einsteigen (> grünes Kopfhörer-Icon) - in diesem Fall kann man die ganze Session gar nix sagen oder muss neu einsteigen.
 - persönliche Nachrichten statt @ im Hauptchat
 - inhaltliche Fragen zum Vortrag der/des LektorIn in "Öffentliche Notizen", mit Nummerierung und Namenskürzel (BO f Benjamin Opperman). Wenn da etwas neues reingeschrieben wurde, kann man es an einem roten Punkt erkennen.
 - "Meta"-Fragen/Aussagen im Hauptchat.
 
-Möglichkeiten, auf den/die Vortragenden zu reagieren:
+-- Möglichkeiten, auf den/die Vortragenden zu reagieren:
+
 - Nachricht im Hauptchat.
 - Von ihm/ihr erstellte Umfrage beantworten
 - Status einstellen (Emoticons). Hier gibts auch eine "Hand heben"-Option.
@@ -15,25 +16,28 @@ Möglichkeiten, auf den/die Vortragenden zu reagieren:
 
 
 -- Mündliche Zwischenfragen
-Nachteile:
+    
+    Nachteile:
 - Man muss din Vortr. unterbrechen
 - Mirko-Probleme...
 
-Vorteile:
+    Vorteile:
 - Verbrauchen weniger Zeit
 - Besser ad-hoc
 - Keine Tippfehler
 - verbrauchen weniger Human Processing Power
 
+
 -- schriftliche Zwischenfragen
-Nachteile:
+    
+    Nachteile:
 - brauchen länger zum Äußern, werden oft von Vortr. nicht rechtzeitig gesehen, daher
     > asynchron
     > schlechter ad-hoc
 - Tippfehler.
 - höhere Cognitive Workload .
 
-Vorteile:
+    Vorteile:
 - Vortr. kann Antworten nach eigenem Ermessen in den Vortrag einbauen.
 - Man muss din Vortr. nicht unterbrechen.
 - Keine Mirko-Probleme
